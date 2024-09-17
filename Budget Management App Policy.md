@@ -1,52 +1,51 @@
-Budget Management App Policy
+Budget Management App Privacy Policy
 
-1. Introduction
 
-Welcome to Budget Management! Our goal is to help you manage your finances effectively and securely. This policy outlines the guidelines and practices for using our budget management app.
 
-2. User Account Security
+Effective Date: September 17th, 2024
 
-	•	Account Creation: Users must provide accurate information during account creation and keep their credentials confidential.
-	•	Password Management: Users are required to use strong passwords and change them regularly. We recommend enabling two-factor authentication (2FA) for added security.
-	•	Account Sharing: Sharing account credentials with others is prohibited. Users are responsible for all activities under their account.
+This Privacy Policy explains how Budget Management App we collects, uses, discloses, and safeguards your information when you use our budget management application (the “App”). Please read this Privacy Policy carefully. If you do not agree with the terms of this policy, please do not access the App.
 
-3. Data Privacy
+1. Information We Collect
+We collect personal information when you use the App, specifically when you register and log in using third-party authentication services. The information we collect includes:
 
-	•	Personal Information: We collect and store personal information to provide and improve our services. Your data will not be shared with third parties without your consent, except as required by law.
-	•	Data Encryption: All sensitive information is encrypted both in transit and at rest to ensure privacy and security.
-	•	Data Access: Users have the right to access, update, or delete their personal data. Requests for data access should be made through the app’s support channels.
+	•	Login Information: When you choose to log in via Google, Apple, or Facebook, we receive your basic profile information, such as your name, email address, and profile picture.
+	•	Usage Data: We collect information about your use of the App, including your device type, operating system, and usage patterns.
+	•	Financial Data: The App may allow you to input personal financial information to help manage your budget, which remains private and is not shared with any third party.
 
-4. Financial Transactions
+2. How We Use Your Information
+We use your information for the following purposes:
 
-	•	Accuracy: Users are responsible for the accuracy of the financial information entered into the app.
-	•	Transaction Limits: Some features may have limits on transaction amounts or frequency. Please refer to the app’s guidelines for details.
-	•	Fees: Any applicable fees for transactions or premium features will be clearly communicated to users before processing.
+	•	To create and manage your account.
+	•	To personalize your experience and provide custom financial insights.
+	•	To communicate with you, including providing updates about the App.
+	•	To improve the App’s functionality and user experience.
 
-5. User Conduct
+3. How We Share Your Information
+We do not sell or share your personal information with third parties except in the following cases:
 
-	•	Prohibited Activities: Users must not use the app for illegal activities, including but not limited to money laundering, fraud, or other financial crimes.
-	•	Respectful Use: Users should use the app respectfully and not engage in abusive or harmful behavior towards other users or the app’s support team.
+	•	With Service Providers: We may share information with third-party service providers who assist us in delivering the App, such as hosting services or analytics providers.
+	•	Compliance with Law: We may disclose your information to comply with legal obligations, enforce our policies, or protect our rights.
 
-6. App Maintenance and Updates
+4. Third-Party Authentication Services
+When you log in via Google, Apple, or Facebook, you are also subject to their respective privacy policies. Please review their policies for more information on how they handle your data:
 
-	•	Service Availability: We strive to provide uninterrupted service, but there may be occasional downtime for maintenance or updates. We will notify users in advance of any planned outages.
-	•	Updates: The app may be updated periodically to enhance functionality or security. Users will be prompted to install updates as needed.
+	•	Google Privacy Policy
+	•	Apple Privacy Policy
+	•	Facebook Privacy Policy
 
-7. Termination
+5. Data Security
+We use reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no method of transmission over the internet is 100% secure.
 
-	•	Account Termination: We reserve the right to suspend or terminate accounts that violate our policies or terms of service. Users may also request account termination at any time.
-	•	Data Retention: Upon termination, we may retain certain data as required by law or for legitimate business purposes.
+6. Your Rights
+You have the right to access, update, or delete your personal information. To exercise these rights, please contact us at hailuongit2806@gmail.com
 
-8. Contact Information
+7. Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the “Effective Date” at the top of this policy.
 
-For any questions or concerns about this policy or your account, please contact our support team at [support email/phone number].
+8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
 
-9. Changes to the Policy
+Email: hailuongit2806@gmail.com
 
-We may update this policy from time to time. Any changes will be communicated to users through the app or via email. Continued use of the app signifies acceptance of the updated policy.
-
-10. Governing Law
-
-This policy is governed by the laws of [Country/State]. Any disputes arising from this policy will be subject to the exclusive jurisdiction of the courts in [Location].
-
-Feel free to adjust the details to better match your app’s specific features and legal requirements!
+Let me know if you’d like to adjust any specific details!
