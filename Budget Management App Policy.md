@@ -38,7 +38,7 @@ When you log in via Google, Apple, or Facebook, you are also subject to their re
 We use reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no method of transmission over the internet is 100% secure.
 
 6. Your Rights
-You have the right to access, update, or delete your personal information. To exercise these rights, please contact us at hailuongit2806@gmail.com
+You have the right to access, update, or delete your personal information. To exercise these rights, please contact us at [hailuongit2806@gmail.com]
 
 7. Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by updating the “Effective Date” at the top of this policy.
